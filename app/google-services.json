@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "407312433480",
+    "firebase_url": "https://arduino-iot-f1ef8.firebaseio.com",
+    "project_id": "arduino-iot-f1ef8",
+    "storage_bucket": "arduino-iot-f1ef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407312433480:android:2d885d78e74a4ead98f37d",
+        "android_client_info": {
+          "package_name": "com.vkhooda24.arduinoledcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407312433480-2gtlit52bnuiod0hchrk7rjju3e7805j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vkhooda24.arduinoledcontrol",
+            "certificate_hash": "9651e1f685e9ec42c3257ed1959baa5494e0b152"
+          }
+        },
+        {
+          "client_id": "407312433480-b49drfq320mvvoau5r8dljoh7htm8tpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdcFSxIb7KH3Ir9BCtvMtI-BzheBXS54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407312433480-b49drfq320mvvoau5r8dljoh7htm8tpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
